@@ -1,5 +1,7 @@
-The Graft Lab — GitHub Pages
+Frank Lab website preview — October 2026
 
-Upload index.html, people.html, and the assets folder to the ROOT of thegraftlab.github.io repository.
+Open index.html to preview. All assets are included in the assets/ folder. Upload the whole folder structure to GitHub Pages, not just the HTML files.
 
-The People page includes Spring and Summer 2026 group photos and a roster from the archived Frank Lab site. Individual portrait images were not accessible for reuse, so cards show temporary initials. Verify current/alumni status before announcing publicly.
+Publications: selected, verified against the previous Frank Lab publications page; Google Scholar profile is linked via Cornell faculty page, not automatically scraped.
+
+Individual member headshots are still pending: no identities were guessed from group photos.
